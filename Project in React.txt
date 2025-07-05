@@ -1,0 +1,108 @@
+🟢 Beginner Projects (Start Here)
+Start with these to learn components, state, props, and basic event handling.
+
+To-Do App
+
+Form Filling / Submission Form
+
+Quote Generator / Inspirational Quote Generator
+
+Color Box App / Color Palette Generator App
+
+Password Validator
+
+Dice Rolling App
+
+Coin Flipping
+
+Guess The Number
+
+Stop Watch / Stopwatch with Lap Memory
+
+BMI Calculator
+
+Calculator App
+
+Emoji Picker
+
+Typing Speed Tester
+
+Word and Letter Counter
+
+Meme Generator
+
+Quote Generator
+
+Aspect Ratio Calculator
+
+🟡 Intermediate Projects
+Learn API integration, conditional rendering, routing, more advanced hooks.
+
+Jokes Generator
+
+Weather Application
+
+IP Address Finder
+
+Movie Search Engine / Movie App / Movie Trailer Search
+
+Dictionary Application
+
+Lyrics Finder
+
+Currency Converter App
+
+QR Code Generator App
+
+Event Countdown Timer
+
+Nutrition Meter (Calorie Tracker)
+
+Progress Tracker
+
+Avatar Generator
+
+Blog App
+
+Survey Website
+
+Event Calendar
+
+Recipe Finder / Food Recipe App
+
+Location Finder / Country Information
+
+Cryptocurrency App
+
+🔴 Advanced Projects
+Deal with complex logic, performance, external libraries, and real-world scenarios.
+
+Quiz App / Word Guess Game / Hangman Game / Tenzies Game
+
+Shopping Cart
+
+Virtual Keyboard
+
+Crowdfunding App
+
+Job Board App
+
+Appointment Management System
+
+Build a Password Manager
+
+Image Compressor
+
+Video to GIF Converter (WebAssembly + FFMPEG)
+
+Paint App (like MS Paint)
+
+Snake Game / PacMan / Flappy Bird / Ping Pong Game / 15 Puzzle Game
+
+Mortgage Calculator
+
+Portfolio Website / Travel Blog Website / Photography Website
+
+Language Translator
+
+Storybook (Component Development Tool)
